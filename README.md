@@ -1,6 +1,16 @@
 # Pavan Kumar KN  
 
 **Backend Developer | Passionate about building scalable APIs & real-world systems**
+---
+
+## About Me  
+I’m passionate about **scalable APIs, serverless backends, and SaaS systems that solve real-world problems**.  
+Skilled in **Node.js, Hono.js, Express.js, and TypeScript**, with strong experience in **AWS Lambda, Cloudflare Workers, and Neon DB**.  
+
+Currently at **StartYourSaaS** (Full-Stack Developer) where I:  
+- Built a **automation tool** with workflows, triggers & serverless backend  
+- Developed an AI-powered chat widget integrated across 50+ client websites with real-time WebSocket communication.
+- Designed Pipeline action for aws lambda and Cloudflare Workers and r2 with CI/CD pipeline 
 
 ---
 
