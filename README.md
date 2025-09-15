@@ -7,11 +7,6 @@
 I’m passionate about **scalable APIs, serverless backends, and SaaS systems that solve real-world problems**.  
 Skilled in **Node.js, Hono.js, Express.js, and TypeScript**, with strong experience in **AWS Lambda, Cloudflare Workers, and Neon DB**.  
 
-Currently at **StartYourSaaS** (Full-Stack Developer) where I:  
-- Built a **automation tool** with workflows, triggers & serverless backend  
-- Developed an AI-powered chat widget integrated across 50+ client websites with real-time WebSocket communication.
-- Designed Pipeline action for aws lambda and Cloudflare Workers and r2 with CI/CD pipeline 
-
 ---
 
 ## Skills
@@ -30,18 +25,5 @@ Currently at **StartYourSaaS** (Full-Stack Developer) where I:
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-
-## Projects
-- **Hire-Matrix** – a job portal helping Indian startups connect with students and freshers  
-- **Role-Based Access Control (RBAC) Package** – reusable Node.js package for implementing RBAC across projects  
-- **Vercel-like Deployment Platform** – experimental platform to learn about CI/CD and serverless deployments  
-- ...10+ more personal projects exploring system design and backend architecture  
-
-## Freelance Experience Snapshot
-- Built **full-fledged e-commerce systems** (**Valuekarts**, **TrekFashions**)  
-- Developed a **Medical POS desktop app** with inventory management & automated daily cloud backups  
-- Built **landing pages** for multiple clients  
-- Currently building a **community forum platform** for students with a serverless backend  
-
 
 *Always excited about backend architecture, solving real-world problems, and building systems that scale.*
