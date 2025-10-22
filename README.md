@@ -5,7 +5,12 @@
 
 ## About Me  
 I’m passionate about **scalable APIs, serverless backends, and SaaS systems that solve real-world problems**.  
-Skilled in **Node.js, Hono.js, Express.js, and TypeScript**, with strong experience in **AWS, Cloudflare , and SQL and NoSql DB**.  
+Skilled in **Node.js, Hono.js, Express.js, and TypeScript**, with strong experience in **AWS, Cloudflare Infrastructure**.  
+
+Worked Technologies in the frontend: 
+* React
+* React Native
+* Next.js
 
 ---
 
